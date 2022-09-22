@@ -63,6 +63,11 @@
     font-size: 25px;
     font-family:'Courier New', Courier, monospace;
 }
+.NANK:hover
+{
+   box-shadow: 10px 10px 5px;
+   border: 1px solid rgb(125, 172, 55);
+}
 
 .PISH
 {
@@ -90,6 +95,11 @@
     color:darksalmon;
     font-size: 20px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.YUM:hover
+{
+   box-shadow: 10px 10px 5px;
+   border: 1px solid rgb(128, 44, 212)
 }
 
 .song1
